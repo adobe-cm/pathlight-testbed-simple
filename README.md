@@ -1,4 +1,4 @@
-# Pathlight Testbed for 6.3 - Simple
+# Pathlight Testbed for 6.3 & 6.4 - Simple
 
 This a content package project generated using the AEM Multimodule Lazybones template.
 
