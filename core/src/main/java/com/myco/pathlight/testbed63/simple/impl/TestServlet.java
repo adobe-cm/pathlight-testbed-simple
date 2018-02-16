@@ -17,9 +17,8 @@ import java.io.IOException;
         "sling.servlet.extensions=txt"
 }, service = Servlet.class)
 public class TestServlet extends SlingSafeMethodsServlet {
-
     @Reference
-    private NameGenerator nameGenerator;
+    private transient NameGenerator nameGenerator;
 
     @Override
     protected void doGet(@Nonnull SlingHttpServletRequest request, @Nonnull SlingHttpServletResponse response) throws ServletException, IOException {
