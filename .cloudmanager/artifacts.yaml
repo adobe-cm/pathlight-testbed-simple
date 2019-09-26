@@ -1,0 +1,4 @@
+artifacts:
+  - mvn:com.adobe.acs/acs-aem-commons-content/4.0.0/zip/min
+  - mvn:com.adobe.cq/core.wcm.components.all/2.5.0/zip
+  - mvn:org.apache.commons/commons-lang3/3.9
