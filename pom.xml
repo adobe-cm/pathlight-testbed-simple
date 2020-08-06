@@ -501,5 +501,6 @@
     <modules>
         <module>core</module>
         <module>ui.apps</module>
+        <module>ui.tests</module>
     </modules>
 </project>
